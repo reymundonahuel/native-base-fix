@@ -50,7 +50,7 @@ What is really great with [NativeBase](https://nativebase.io/) is that you can u
 *Install NativeBase:*
 
 ```js
-npm install native-base --save
+npm install @codler/native-base --save
 ```
 *Install Peer Dependencies:*<br />
 The peer dependencies included from any npm packages does not automatically get installed. Your application will not depend on it explicitly.
@@ -70,7 +70,7 @@ Refer this link for additional information on [Expo](https://docs.expo.io/)
 
 *Install NativeBase:*
 ```js
-npm install native-base --save
+npm install @codler/native-base --save
 ```
 
 <br />
@@ -162,17 +162,7 @@ Find the repo [here](https://github.com/GeekyAnts/NativeBase-KitchenSink/tree/we
 
 | NativeBase   |      React Native      |
 |----------|-------------|
-| v0.1.1	| v0.22 to v0.23 |
-| v0.2.0 to v0.3.1 | v0.24 to v0.25 |
-| v0.4.6 to v0.4.9 | v0.26.0 - v0.27.1 |
-| v0.5.0 to v0.5.15 | v0.26.0 - v0.37.0 |
-| v0.5.16 to v0.5.20 | v0.38.0 - v0.39.0 |
-| v2.0.0-alpha1 to v2.1.3 | v0.38.0 to v0.43.0 |
-| v2.1.4 to v2.1.5 | v0.44.0 to v0.45.0 |
-| v2.2.0 | v0.44.0 to v0.45.0 |
-| v2.2.1 | v0.46.0 and above |
-| v2.3.0 to 2.6.1 | v0.46.0 and above *(does not support React 16.0.0-alpha.13)*|
-| v2.7.0 | v0.56.0 and above |
+| v2.14.0 | v0.63.0 and above |
 
 ## 8. [React Native Seed](https://reactnativeseed.com/)
 
@@ -209,39 +199,9 @@ Go through [NativeBase Docs](https://docs.nativebase.io/) to play with [NativeBa
 *	[NativeBase on Twitter](https://twitter.com/NativeBaseIO)
 *	[NativeBase on FaceBook](https://www.facebook.com/nativebaseio/)
 
-
-## 13. About the creators
-
-We are [GeekyAnts](https://geekyants.com/), a startup based in Bangalore, India with 50+ developers in strength. We have been very active in the React / React Native community where we have developed [StrapUI](https://www.strapui.com/) and [StartReact](https://startreact.com/). Our other products include [StartLaravel](http://startlaravel.com) and [StartAngular](http://startangular.com).
-
-Another major project by us is [BuilderX](https://builderx.io/?utm_source=github&utm_medium=nativebase&utm_campaign=nativebase), a screen design tool which codes React Native for you.
-
 ## Contributors
 
 ### Code Contributors
 
 This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
 <a href="https://github.com/GeekyAnts/NativeBase/graphs/contributors"><img src="https://opencollective.com/NativeBase/contributors.svg?width=890&button=false" /></a>
-
-### Financial Contributors
-
-Become a financial contributor and help us sustain our community. [[Contribute](https://opencollective.com/NativeBase/contribute)]
-
-#### Individuals
-
-<a href="https://opencollective.com/NativeBase"><img src="https://opencollective.com/NativeBase/individuals.svg?width=890"></a>
-
-#### Organizations
-
-Support this project with your organization. Your logo will show up here with a link to your website. [[Contribute](https://opencollective.com/NativeBase/contribute)]
-
-<a href="https://opencollective.com/NativeBase/organization/0/website"><img src="https://opencollective.com/NativeBase/organization/0/avatar.svg"></a>
-<a href="https://opencollective.com/NativeBase/organization/1/website"><img src="https://opencollective.com/NativeBase/organization/1/avatar.svg"></a>
-<a href="https://opencollective.com/NativeBase/organization/2/website"><img src="https://opencollective.com/NativeBase/organization/2/avatar.svg"></a>
-<a href="https://opencollective.com/NativeBase/organization/3/website"><img src="https://opencollective.com/NativeBase/organization/3/avatar.svg"></a>
-<a href="https://opencollective.com/NativeBase/organization/4/website"><img src="https://opencollective.com/NativeBase/organization/4/avatar.svg"></a>
-<a href="https://opencollective.com/NativeBase/organization/5/website"><img src="https://opencollective.com/NativeBase/organization/5/avatar.svg"></a>
-<a href="https://opencollective.com/NativeBase/organization/6/website"><img src="https://opencollective.com/NativeBase/organization/6/avatar.svg"></a>
-<a href="https://opencollective.com/NativeBase/organization/7/website"><img src="https://opencollective.com/NativeBase/organization/7/avatar.svg"></a>
-<a href="https://opencollective.com/NativeBase/organization/8/website"><img src="https://opencollective.com/NativeBase/organization/8/avatar.svg"></a>
-<a href="https://opencollective.com/NativeBase/organization/9/website"><img src="https://opencollective.com/NativeBase/organization/9/avatar.svg"></a>
