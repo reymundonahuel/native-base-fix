@@ -1,5 +1,5 @@
 {
-  "name": "@codler/native-base",
+  "name": "@ar7profacex/native-base",
   "description": "Essential cross-platform UI components for React Native",
   "keywords": [
     "android",
@@ -26,10 +26,10 @@
       "node_modules/(?!react-native|@shoutem|react-clone-referenced-element|native-base-shoutem-theme)"
     ]
   },
-  "version": "2.14.2",
+  "version": "2.14.3",
   "funding": {
     "type": "individual",
-    "url": "https://github.com/sponsors/codler"
+    "url": "https://github.com/sponsors/Ar7profacex"
   },
   "author": "Han Lin Yap (https://yap.nu)",
   "license": "ISC",
@@ -83,6 +83,9 @@
   "readmeFilename": "README.md",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/codler/NativeBase.git"
+    "url": "git+https://github.com/Ar7profacex/native-base-fix.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   }
 }
