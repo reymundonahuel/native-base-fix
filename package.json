@@ -13,7 +13,7 @@
     "packager"
   ],
   "scripts": {
-    "compile": "rimraf -rf dist/* && babel . --out-dir dist --ignore node_modules,dist --source-maps ",
+    "compile": "rm -rf dist/* && babel . --out-dir dist --ignore node_modules,dist --source-maps ",
     "lint": "eslint \"src/**/*.{js, json}\"",
     "transpile": "npm run compile && cp-cli src/basic/Icon/NBIcons.json dist/src/basic/Icon",
     "prepublish": "npm run transpile",
@@ -36,6 +36,7 @@
   "private": false,
   "dependencies": {
     "@codler/react-native-keyboard-aware-scroll-view": "^1.0.1",
+    "@react-native-picker/picker": "^2.5.1",
     "blueimp-md5": "^2.5.0",
     "clamp": "^1.0.1",
     "color": "~3.1.2",
@@ -75,7 +76,6 @@
   },
   "main": "dist/src/index.js",
   "typings": "./index.d.ts",
-  "optionalDependencies": {},
   "peerDependencies": {
     "react": ">=16.4.1",
     "react-native": ">=0.63.0"
